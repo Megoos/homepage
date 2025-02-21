@@ -72,7 +72,7 @@ function Home() {
           bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
           css={{ backdropFilter: 'blur(10px)' }}
         >
-          Hello, I&apos;m a full-stack developer living in Thailand now!
+          Hello, I&apos;m a Senior Frontend Developer!
         </Box>
 
         <Section delay={0.1}>
@@ -126,10 +126,10 @@ function Home() {
             Experience
           </Heading>
           <BioSection>
-            <BioYear>2023 to present</BioYear>Working as a freelancer
+            <BioYear>2023 to present</BioYear>Worked at Sumsub - Remote
           </BioSection>
           <BioSection>
-            <BioYear>2022</BioYear>Worked at Sovran — EMEA
+            <BioYear>2022</BioYear>Worked at Sovran — Remote
           </BioSection>
           <BioSection>
             <BioYear>2021</BioYear>Worked at VK — Moscow, Russia
